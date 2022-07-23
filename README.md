@@ -6,6 +6,8 @@
 
 ### Технологии
 
+Python 3.7
+
 Django 2.2.19
 
 pytz 2022.1
@@ -24,4 +26,3 @@ python3 manage.py runserver
 ```
 ### Автор
 Иван
-
